@@ -1,7 +1,7 @@
 {
   "name": "@relay-sdk/vue",
   "version": "1.10.0",
-  "description": "Official Relay Vue bindings - track a delivery live with one composable",
+  "description": "Official SendRelay Vue bindings - track a delivery live with one composable",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",

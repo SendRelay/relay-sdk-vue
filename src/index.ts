@@ -1,5 +1,5 @@
 /**
- * Official Relay Vue bindings: install the `createRelay` plugin once and call
+ * Official SendRelay Vue bindings: install the `createRelay` plugin once and call
  * `useTaskTracker(taskId)` in any component that shows a delivery. Works in Nuxt too.
  *
  * Built on `@relay-sdk/sdk-browser`. Every framework binding wraps the same `createTaskTracker`

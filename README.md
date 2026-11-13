@@ -1,6 +1,6 @@
 # @relay-sdk/vue
 
-Official [Relay](https://sendrelay.com.ng) Vue bindings: show a delivery's status, the rider on a map and a live arrival time with one composable. Works in Nuxt.
+Official [SendRelay](https://sendrelay.com.ng) Vue bindings: show a delivery's status, the rider on a map and a live arrival time with one composable. Works in Nuxt.
 
 ```bash
 npm install @relay-sdk/vue

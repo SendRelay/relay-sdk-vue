@@ -83,6 +83,7 @@ export function idleTrackerState(taskId = ''): TaskTrackerState {
     searchExpiresAt: null,
     pooling: null,
     stopsBefore: null,
+    approval: null,
     events: [],
     finished: false,
     error: null,
